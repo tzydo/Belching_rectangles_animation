@@ -1,2 +1,2 @@
 # Belching_rectangles_animation
-Java
+Java , click on screen and add belching rectangles 
